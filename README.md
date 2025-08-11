@@ -4,9 +4,9 @@
 
 I’m a passionate network engineer with hands-on experience in designing, configuring, and troubleshooting enterprise network infrastructures. Skilled in switching, routing, and network security, I thrive on solving complex connectivity challenges and optimizing performance. Currently deepening my expertise in CCNP-level switching concepts and cloud networking with AWS.
 
-🖧 VLANs • Trunking • STP • EtherChannel
+🖧 VLANs • Trunking • STP • VTP • EtherChannel
 
-📡 OSPF • EIGRP • BGP
+📡 Static Routing • OSPF • EIGRP • BGP
 
 🔒 Network Security • VLAN Segmentation
 
