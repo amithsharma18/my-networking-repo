@@ -1,5 +1,7 @@
-Hi My name is Amith Sharma
-Network Engineer
+👋 Hi, My name is Amith Sharma
+
+💼 Network Engineer | 🌐 CCNA & CCNP Learner | ☁️ AWS Cloud Practitioner in Progress
+
 I’m a passionate network engineer with hands-on experience in designing, configuring, and troubleshooting enterprise network infrastructures. Skilled in switching, routing, and network security, I thrive on solving complex connectivity challenges and optimizing performance. Currently deepening my expertise in CCNP-level switching concepts and cloud networking with AWS.
 
 🖧 VLANs • Trunking • STP • EtherChannel
@@ -18,7 +20,7 @@ I’m a passionate network engineer with hands-on experience in designing, confi
 
 ✉️  You can contact me at amith.sharma1808@gmail.com
 
-🧠  I'm learning CCNA,CCNP,CCIE
+🧠  I'm learning CCNA,CCNP,CCIE,AWS,Docker
 
 🤝  I'm open to collaborating on I’m open to collaborating on projects involving: Advanced Switching & Routing (Cisco) VLAN Design & Native VLAN Security Network Automation (Cisco IOS, Python, Ansible) Cloud Networking (AWS VPC, Hybrid Solutions) Currently diving deeper into switching & routing concepts while building skills in integrating cloud-based networking into hybrid infrastructures.
 
